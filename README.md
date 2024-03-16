@@ -3,8 +3,6 @@
 My name is Billy and I am a computer science student at *The University Of York*.
 I use this GitHub profile to host my personal projects.
 
-I am currently working on a Chip-8 interpreter that you can see [here](github.com/billyedmoore/Chip8).
-
 <!--
 **billyedmoore/billyedmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
