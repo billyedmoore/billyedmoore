@@ -3,7 +3,7 @@
 My name is Billy and I am a computer science student at *The University Of York*.
 I use this GitHub profile to host my personal projects.
 
-Most recently I am working on a simple shell written in c called [Clobber](https://github.com/billyedmoore/Clobber).
+I most recently created on a simple shell written in c called [Clobber](https://github.com/billyedmoore/Clobber).
 
 <!--
 **billyedmoore/billyedmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
