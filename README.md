@@ -3,9 +3,9 @@
 My name is Billy and I am a computer science student at *The University Of York* currently working a placement year at *Amadeus*.
 I use this GitHub profile to host my personal projects.
 
-## Recent projects
-Simple shell written in c called [Clobber](https://github.com/billyedmoore/Clobber).
-PNG library (encoder/decoder) written in python called [Pilates](https://github.com/billyedmoore/Pilates)
+#### Recent projects
++ Simple shell written in c called [Clobber](https://github.com/billyedmoore/Clobber).
++ PNG library (encoder/decoder) written in python called [Pilates](https://github.com/billyedmoore/Pilates)
 
 <!--
 **billyedmoore/billyedmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
