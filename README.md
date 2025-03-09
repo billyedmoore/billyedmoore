@@ -6,6 +6,8 @@ I use this GitHub profile to host my personal projects.
 
 #### Recent projects
 
++ Persistant key-value store [PostMixDB](https://github.com/billyedmoore/PostMixDB) with
+  support for a simple query language (with associated tokenization, parsing and evaluation)
 + Neural-net based prediction of the runways in use at Heathrow called [lhrnet](https://github.com/billyedmoore/lhrnet)
 + Simple shell written in c called [Clobber](https://github.com/billyedmoore/Clobber)
 + PNG library (encoder/decoder) written in python called [Pilates](https://github.com/billyedmoore/Pilates)
