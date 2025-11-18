@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Billy and I am a computer science student at *The University Of York* currently 
-working a placement year at *Amadeus IT Group*.
+My name is Billy and I am a final year Computer Science student at *The University Of York*.
 I use this GitHub profile to host my personal projects.
 
 #### Recent projects
